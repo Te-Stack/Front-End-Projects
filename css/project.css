@@ -1,0 +1,185 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css";
+
+body{
+    
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+#nav-section{
+    background-color:#c74923;
+    height:100px;
+}
+
+.img{
+    height: 70px;
+    margin-left: 100px;
+}
+
+.integer{
+
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.nonsense{
+    color: white;
+    font-size: 20px;
+    margin-right: 70px;
+    text-align: center;
+}
+
+.but-1{
+    background-color: white;
+    color:#c74923 ;
+    width: 166px;
+    border: none;
+    border-radius: 20px;
+    height:42px ;
+    cursor: pointer;
+    left: 50%;
+}
+
+.but-2{
+    background-color:#c74923;
+    color:white;
+    width: 166px;
+    border: 2px groove white;
+    border-radius: 20px;
+    height:42px ;
+    cursor: pointer;
+    
+}
+
+#glass{
+    height: 100vh;
+    background: url(Main_Banner_1920.jpg) no-repeat;
+    background-size: cover;
+}
+
+#glass img{
+    width: 90px;
+    padding-left: 20px;
+
+
+}
+
+#message{
+    width: 600px;
+    height: 64px;
+    border-radius: 40px;
+    font-size: 30px;
+    border: 2px groove black;
+    background: white;
+
+}
+
+#row-matter{
+    margin-top: -42px;
+}
+
+
+#smile{
+    height: 200vh;
+    background-color: white;
+}
+#smile button{
+    width: 200px;
+    height: 50px;
+    border:none;
+    background: #2ca868;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+.first{
+    margin-left: 80px;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 0 10px;
+}
+
+
+#slide{
+    height:100vh;
+    background: white;
+}
+
+.macbook{
+    margin-top: 30px;
+    right:2%;
+    
+
+    position: absolute;
+}
+
+.macH{
+    font-weight: bold;
+}
+
+.btn-3{
+    width: 200px;
+    height: 50px;
+    border:none;
+    background: #2ca868;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+}
+
+#phone-section{
+    height: 123vh;
+    background-color:rgb(235, 228, 228);
+}
+.move{
+    margin-top: 150px;
+}
+
+.btn-4{
+    width: 200px;
+    height: 50px;
+    border:none;
+    background: #2ca868;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    left: 200px;
+    position: absolute;
+    
+}
+
+#subscribe{
+    background-color: white;
+    height: 80vh;
+}
+
+.news{
+    margin-top: 150px;
+
+
+}
+
+.btn-5{
+    width: 150px;
+    height: 40px;
+    border:none;
+    background: #2ca868;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.but{
+    width: 400px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+#last-section{
+    height: 80vh;
+    background-color:rgb(235, 228, 228);
+}
